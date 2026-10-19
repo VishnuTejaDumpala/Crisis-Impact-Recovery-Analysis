@@ -458,52 +458,60 @@ Customers did not leave because of a preference shift. They left because of serv
 
 **Page 1: Home**
 - Quick navigation to all analysis sections
-![Page 1: Home](images/page1_home.png)
+![Page 1: Home](<img width="579" height="327" alt="Page 1" src="https://github.com/user-attachments/assets/04c6d0fd-1097-43a6-be0f-f612c91a7ab2" />
+)
 
 **Page 2: Executive Summary (Crisis Overview)**
 - KPI cards: total orders (149K), average rating (4.05), cancellation rate (7.45%), order frequency drop (69%), pre-crisis and crisis revenue (₹3.76 Cr and ₹1.09 Cr)
 - Monthly revenue and order/cancellation trend
 - Top cities by order decline
 - Revenue breakdown by component
-![Page 2: Executive Summary](images/page2_executive_summary.png)
+![Page 2: Executive Summary](<img width="579" height="328" alt="Page 2" src="https://github.com/user-attachments/assets/b9142c85-0776-4471-b1d1-7bd123b693c0" />
+)
 
 **Page 3: Customer Impact Analysis**
 - Customer status KPIs: 105K total, 100K active, 50 loyal, 73K churned, 18K new, 14K retained
 - Orders by city and by customer status
 - Loyal customers who left (5+ pre-crisis orders, none in the crisis)
-![Page 3: Customer Impact Analysis](images/page3_customer_impact.png)
+![Page 3: Customer Impact Analysis](<img width="581" height="327" alt="Page 3" src="https://github.com/user-attachments/assets/1fc52ec0-8090-44ef-9ed5-dbbbc382ac51" />
+)
 
 **Page 4: Top 5% Spent Customer Impact**
 - VIP metrics: 5K VIPs, ₹0.58 Cr revenue at risk, -0.97 average decline, 0.02 cancellation rate, 2.64 churned average delay
 - VIP order frequency (2.6 → 1.1) and city distribution
 - Cuisine preferences and monthly spend
-![Page 4: Top 5% Spent Customer Impact](images/page4_top5_customers.png)
+![Page 4: Top 5% Spent Customer Impact](<img width="578" height="326" alt="Page 4" src="https://github.com/user-attachments/assets/55cd86f1-2d77-48ce-9361-185b7636350e" />
+)
 
 **Page 5: Operational Performance**
 - KPIs: average SLA delay 5.71 minutes, SLA compliance 36%, SLA drop 0.31, delay increase 15.58 minutes, 15K delivery partners, 10 deliveries per partner, top city Bengaluru
 - SLA compliance and delivery time by month
 - Cancellation rates by city and phase, SLA by vehicle type and time bucket
-![Page 5: Operational Performance](images/page5_operational_performance.png)
+![Page 5: Operational Performance](<img width="580" height="327" alt="Page 5" src="https://github.com/user-attachments/assets/9fd3a040-cadd-48ed-b813-bb55a820d718" />
+)
 
 **Page 6: Restaurant Partnership Analysis**
 - KPIs: 20K partner restaurants, 6K cloud kitchens, 16K active in both periods, 0.79 retention rate, 14K restaurants
 - City retention rates and cuisine-wise order comparison
 - Restaurant risk levels and top declining restaurants
 - Active restaurants by month
-![Page 6: Restaurant Partnership Analysis](images/page6_restaurant_partnership.png)
+![Page 6: Restaurant Partnership Analysis](<img width="579" height="326" alt="Page 6" src="https://github.com/user-attachments/assets/e2a39dcc-0c9c-46c2-a8bd-6c5c0fb57e9f" />
+)
 
 **Page 7: Customer Sentiment Analysis**
 - Rating trend (4.6 → 2.3) and average sentiment trend (0.79 → -0.35)
 - Review volume by sentiment category
 - Negative review word cloud and top negative themes
-![Page 7: Customer Sentiment Analysis](images/page7_customer_sentiment.png)
+![Page 7: Customer Sentiment Analysis](<img width="579" height="327" alt="Page 7" src="https://github.com/user-attachments/assets/2272140c-7728-4ea1-9aa5-b8f446cc412e" />
+)
 
 **Page 8: Additional Insights**
 - Orders by partner type (cloud kitchen vs restaurant) and restaurant size
 - Average SLA delay vs % negative reviews by month
 - Loss and recovery potential by city tier
 - Return segments and orders by price tier
-![Page 8: Additional Insights](images/page8_additional_insights.png)
+![Page 8: Additional Insights](<img width="577" height="325" alt="Page 8" src="https://github.com/user-attachments/assets/e4fa1153-1114-4afa-acfe-387be3ba8d16" />
+)
 
 ---
 
