@@ -458,7 +458,7 @@ Customers did not leave because of a preference shift. They left because of serv
 
 **Page 1: Home**
 - Quick navigation to all analysis sections
-![Page 1: Home](<img width="1157" height="653" alt="image" src="https://github.com/user-attachments/assets/86a3a0c9-9879-4344-8aa3-0cfe8a1bcf5b" />)
+![image alt](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/d9c6163577a76f42fd69a8ad49aef426602ac8ec/Page%201.PNG)
 
 **Page 2: Executive Summary (Crisis Overview)**
 - KPI cards: total orders (149K), average rating (4.05), cancellation rate (7.45%), order frequency drop (69%), pre-crisis and crisis revenue (₹3.76 Cr and ₹1.09 Cr)
