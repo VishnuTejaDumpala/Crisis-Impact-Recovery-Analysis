@@ -471,41 +471,39 @@ Customers did not leave because of a preference shift. They left because of serv
 - Customer status KPIs: 105K total, 100K active, 50 loyal, 73K churned, 18K new, 14K retained
 - Orders by city and by customer status
 - Loyal customers who left (5+ pre-crisis orders, none in the crisis)
-![Page 3: Customer Impact Analysis](
-)
+![Page 3: Customer Impact Analysis](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/be7ea3ad206a959871eadf7e4a30d6e978d02e16/Page%203.PNG)
 
 **Page 4: Top 5% Spent Customer Impact**
 - VIP metrics: 5K VIPs, ₹0.58 Cr revenue at risk, -0.97 average decline, 0.02 cancellation rate, 2.64 churned average delay
 - VIP order frequency (2.6 → 1.1) and city distribution
 - Cuisine preferences and monthly spend
-![Page 4: Top 5% Spent Customer Impact](
-)
+![Page 4: Top 5% Spent Customer Impact](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/be7ea3ad206a959871eadf7e4a30d6e978d02e16/Page%204.PNG)
 
 **Page 5: Operational Performance**
 - KPIs: average SLA delay 5.71 minutes, SLA compliance 36%, SLA drop 0.31, delay increase 15.58 minutes, 15K delivery partners, 10 deliveries per partner, top city Bengaluru
 - SLA compliance and delivery time by month
 - Cancellation rates by city and phase, SLA by vehicle type and time bucket
-![Page 5: Operational Performance]()
+![Page 5: Operational Performance](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/be7ea3ad206a959871eadf7e4a30d6e978d02e16/Page%205.PNG)
 
 **Page 6: Restaurant Partnership Analysis**
 - KPIs: 20K partner restaurants, 6K cloud kitchens, 16K active in both periods, 0.79 retention rate, 14K restaurants
 - City retention rates and cuisine-wise order comparison
 - Restaurant risk levels and top declining restaurants
 - Active restaurants by month
-![Page 6: Restaurant Partnership Analysis]()
+![Page 6: Restaurant Partnership Analysis](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/be7ea3ad206a959871eadf7e4a30d6e978d02e16/Page%206.PNG)
 
 **Page 7: Customer Sentiment Analysis**
 - Rating trend (4.6 → 2.3) and average sentiment trend (0.79 → -0.35)
 - Review volume by sentiment category
 - Negative review word cloud and top negative themes
-![Page 7: Customer Sentiment Analysis]()
+![Page 7: Customer Sentiment Analysis](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/be7ea3ad206a959871eadf7e4a30d6e978d02e16/Page%207.PNG)
 
 **Page 8: Additional Insights**
 - Orders by partner type (cloud kitchen vs restaurant) and restaurant size
 - Average SLA delay vs % negative reviews by month
 - Loss and recovery potential by city tier
 - Return segments and orders by price tier
-![Page 8: Additional Insights]()
+![Page 8: Additional Insights](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/be7ea3ad206a959871eadf7e4a30d6e978d02e16/Page%208.PNG)
 
 ---
 
