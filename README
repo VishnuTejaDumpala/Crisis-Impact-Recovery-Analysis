@@ -458,14 +458,14 @@ Customers did not leave because of a preference shift. They left because of serv
 
 **Page 1: Home**
 - Quick navigation to all analysis sections
-![image alt](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/036499a10d1a3e737570490f78e8da97f9d32e23/Page%201.PNG)
+![Page 1 - Home](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/036499a10d1a3e737570490f78e8da97f9d32e23/Page%201.PNG)
 
 **Page 2: Executive Summary (Crisis Overview)**
 - KPI cards: total orders (149K), average rating (4.05), cancellation rate (7.45%), order frequency drop (69%), pre-crisis and crisis revenue (₹3.76 Cr and ₹1.09 Cr)
 - Monthly revenue and order/cancellation trend
 - Top cities by order decline
 - Revenue breakdown by component
-![image alt](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/main/Page%202.PNG?raw=true)
+![Page 2 - Executive Summary](https://github.com/VishnuTejaDumpala/Crisis-Impact-Recovery-Analysis/blob/main/Page%202.PNG?raw=true)
 
 **Page 3: Customer Impact Analysis**
 - Customer status KPIs: 105K total, 100K active, 50 loyal, 73K churned, 18K new, 14K retained
